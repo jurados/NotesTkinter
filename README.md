@@ -20,6 +20,7 @@ Useful . It's part of the Standard libraries of Python.
 Some remarkable pictures obtained in the learning process:
 
 Tkinter test function
+
 ![](./assets/imgs/tkinter_test.png)
 
 ![](./assets/imgs/first_tkinter.png)
