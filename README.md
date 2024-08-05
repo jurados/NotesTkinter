@@ -21,9 +21,9 @@ Some remarkable pictures obtained in the learning process:
 
 Tkinter test function
 
-<center>
-![](./assets/imgs/tkinter_test.png)
-</center>
+<p align="center">
+  <img width="460" height="300" src="./assets/imgs/tkinter_test.png">
+</p>
 
 ![](./assets/imgs/first_tkinter.png)
 
