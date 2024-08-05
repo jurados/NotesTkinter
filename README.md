@@ -21,7 +21,9 @@ Some remarkable pictures obtained in the learning process:
 
 Tkinter test function
 
+<center>
 ![](./assets/imgs/tkinter_test.png)
+</center>
 
 ![](./assets/imgs/first_tkinter.png)
 
