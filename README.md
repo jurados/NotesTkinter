@@ -1,13 +1,15 @@
 # Tkinter Notes
----
+
 **Author:** Steve Jurado
+
 **Instructors:**
 - Metra Brains
 - Corey Schafer
+
 **Certificates:**
 - [Meta Brains Certificate](./assets/certicates/Certificate_MetaBrains.jpg)
+
 **Last Update** Aug 04/2024
----
 
 I took some courses on the [Udemy Platform](https://www.udemy.com/) and I'm following the indicates of Corey Schafer on his [YouTube Channel](https://www.youtube.com/watch?v=epDKamC-V-8). 
 
