@@ -25,6 +25,12 @@ Some remarkable pictures obtained in the learning process:
   <img src="./assets/imgs/tkinter_test.png">
 </p>
 
+- Project Audio Player using Tkinter
+
+<p align="center">
+  <img src="./assets/imgs/project_audio_player.png">
+</p>
+
 ![](./assets/imgs/first_tkinter.png)
 
 ![](./assets/imgs/second_tkinter.png)
