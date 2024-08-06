@@ -31,10 +31,16 @@ Some remarkable pictures obtained in the learning process:
   <img src="./assets/imgs/project_audio_player.png">
 </p>
 
-- Project Triqui using Tkinter
+- Project Telephone Dial using Tkinter
 
 <p align="center">
-  <img src="./assets/imgs/project_triqui.png">
+  <img src="./assets/imgs/project_dial.png">
+</p
+
+- Project Text Editor using Tkinter
+
+<p align="center">
+  <img src="./assets/imgs/project_text_editor.png">
 </p
 
 ![](./assets/imgs/first_tkinter.png)
