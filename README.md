@@ -45,6 +45,12 @@ Some remarkable pictures obtained in the learning process:
   <img src="./assets/imgs/project_text_editor.png">
 </p
 
+- Project Calculator using Tkinter
+
+<p align="center">
+  <img src="./assets/imgs/project_calculator.png">
+</p
+
 ![](./assets/imgs/first_tkinter.png)
 
 ![](./assets/imgs/second_tkinter.png)
