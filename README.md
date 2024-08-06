@@ -31,6 +31,12 @@ Some remarkable pictures obtained in the learning process:
   <img src="./assets/imgs/project_audio_player.png">
 </p>
 
+- Project Triqui using Tkinter
+
+<p align="center">
+  <img src="./assets/imgs/project_triqui.png">
+</p
+
 ![](./assets/imgs/first_tkinter.png)
 
 ![](./assets/imgs/second_tkinter.png)
