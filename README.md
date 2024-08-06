@@ -5,9 +5,11 @@
 **Instructors:**
 - Metra Brains
 - Corey Schafer
+- Frank Anemaet
 
 **Certificates:**
 - [Meta Brains Certificate](./assets/certicates/Certificate_MetaBrains.jpg)
+- [Frank Anemaet Certificate](./assets/certicates/Certificate_FrankAnemaet.jpg)
 
 **Last Update** Aug 04/2024
 
