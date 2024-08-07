@@ -6,6 +6,7 @@
 - Metra Brains
 - Corey Schafer
 - Frank Anemaet
+- Brian De Vita
 
 **Certificates:**
 - [Meta Brains Certificate](./assets/certicates/Certificate_MetaBrains.jpg)
@@ -27,28 +28,34 @@ Some remarkable pictures obtained in the learning process:
   <img src="./assets/imgs/tkinter_test.png">
 </p>
 
-- Project Audio Player using Tkinter
+- Project Audio Player using Tkinter:
 
 <p align="center">
   <img src="./assets/imgs/project_audio_player.png">
 </p>
 
-- Project Telephone Dial using Tkinter
+- Project Telephone Dial using Tkinter:
 
 <p align="center">
   <img src="./assets/imgs/project_dial.png">
 </p
 
-- Project Text Editor using Tkinter
+- Project Text Editor using Tkinter:
 
 <p align="center">
   <img src="./assets/imgs/project_text_editor.png">
 </p
 
-- Project Calculator using Tkinter
+- Project Calculator using Tkinter:
 
 <p align="center">
   <img src="./assets/imgs/project_calculator.png">
+</p
+
+- Project Agenda using Tkinter:
+
+<p align="center">
+  <img src="./assets/imgs/project_agenda.png">
 </p
 
 ![](./assets/imgs/first_tkinter.png)
